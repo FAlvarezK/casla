@@ -1,0 +1,11 @@
+header{
+    background-color:rgb(34, 36, 165) ;
+    align-items:center;
+    &-ul{
+            width: 100%;
+            display: flex;
+            justify-content: end;
+        }
+        
+    }
+

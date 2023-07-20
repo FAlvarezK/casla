@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 700;
+  color: black;
+}
+
+header {
+  background-color: rgb(34, 36, 165);
+  align-items: center;
+}
+header:ul {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+
+nav {
+  background-color: rgb(34, 36, 165);
+  margin-top: 5rem;
+  align-items: center;
+}
+
+/*# sourceMappingURL=css.styyle.css.map */
