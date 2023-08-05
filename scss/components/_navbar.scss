@@ -1,12 +1,23 @@
-nav{
-    background-color:rgb(34, 36, 165);
+nav {
+
+    background-color: rgb(34, 36, 165);
+
     margin-top: 5rem;
+
     align-items: center;
+
     color: white;
-}
-nav ul{
-    margin: 0;
-}
-nav ul li{
-    background-color: blue($color: #000000);
+
+    ul {
+
+        margin: 0;
+
+        li {
+
+            background-color: blue($color: #000000);
+
+        }
+
+    }
+
 }
